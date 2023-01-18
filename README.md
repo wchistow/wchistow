@@ -5,6 +5,10 @@
 
 Мне нравится data mining, визуализация данных и создание российских алтернатив известных программ.
 
+Языки программирования:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wchistow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## Контакты:
