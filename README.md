@@ -15,9 +15,9 @@ I like data mining and data visualization.
 
 [GitFlic](https://gitflic.ru/user/wchistow)
 
-StackExchange:
+Ru.StackOverflow:
 
-<a href="https://stackexchange.com/users/25638983"><img src="https://stackexchange.com/users/flair/25638983.png" width="208" height="58" alt="Профиль участника wchistow в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника wchistow в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
+<a href="https://ru.stackoverflow.com/users/507426/wchistow"><img src="https://ru.stackoverflow.com/users/flair/507426.png" width="208" height="58" alt="Профиль участника wchistow на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника wchistow на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
 
 Write me [here](https://github.com/wchistow/wchistow/discussions/1).
 
