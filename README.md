@@ -19,6 +19,6 @@ Ru.StackOverflow:
 
 <a href="https://ru.stackoverflow.com/users/507426/wchistow"><img src="https://ru.stackoverflow.com/users/flair/507426.png" width="208" height="58" alt="Профиль участника wchistow на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов" title="Профиль участника wchistow на сайте &#171;Stack Overflow на русском&#187;, Вопросы и ответы для программистов"></a>
 
-Write me [here](https://github.com/wchistow/wchistow/discussions/1).
+You can write me in discussions [here](https://github.com/wchistow/wchistow/discussions/1).
 
 ---
