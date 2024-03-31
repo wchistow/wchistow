@@ -1,6 +1,8 @@
 # Vladimir Chistov
 ## About:
 
+I ❤️ 🇷🇺
+
 My favorite programming language is Python, and I'm learning Rust.
 
 I like data mining and data visualization.
