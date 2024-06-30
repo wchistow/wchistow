@@ -9,7 +9,7 @@ I like data mining and data visualization.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wchistow&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wchistow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=python,rust,mint,django,git,stackoverflow,github,markdown,idea,pycharm,vscode,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,rust,linux,mint,django,git,stackoverflow,github,githubactions,markdown,bash,regex,idea,pycharm,vscode,sublime&perline=8)](https://skillicons.dev)
 
 ---
 
