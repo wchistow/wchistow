@@ -1,13 +1,15 @@
 # Владимир Чистов
 ## Описание:
 
-Мой любимый язык программирования - Python, также я знаю Shell и изучаю Rust.
+I ❤️ 🇷🇺
 
-Мне нравится data mining, визуализация данных и создание российских алтернатив известных программ.
+Мой любимый язык программирования - Python.
 
-Языки программирования:
+Мне нравится data mining, визуализация данных и создание полезных библиотек.
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wchistow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=python,rust,linux,mint,django,git,stackoverflow,github,bots,githubactions,markdown,bash,regex,idea,pycharm,vscode,sublime,vscodium&perline=9)](https://skillicons.dev)
 
 ---
 
